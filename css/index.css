@@ -392,9 +392,15 @@ body {
     #bcimg {
         height: 744px;
     }
+    #section1 {
+        height: 400px;
+    }
 }
 
 @media screen and (max-width:782px) {
+    #section1 {
+        height: 500px;
+    }
     #section2 {
         height: 270px;
     }
@@ -527,7 +533,7 @@ body {
 
 @media screen and (max-width:454px) {
     #bcimg {
-        height: 430px;
+        height: 540px;
     }
     #section1 {
         height: 370px;
