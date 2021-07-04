@@ -390,7 +390,7 @@ body {
         margin-left: 20%;
     }
     #bcimg {
-        height: 744px;
+        height: 844px;
     }
     #section1 {
         height: 400px;
@@ -475,7 +475,7 @@ body {
         margin-left: 25.8%;
     }
     #bcimg {
-        height: 600px;
+        height: 800px;
     }
 }
 
@@ -528,6 +528,9 @@ body {
     }
     .rainbow-text {
         margin-left: 26.8%;
+    }
+    #bcimg {
+        height: 700px;
     }
 }
 
